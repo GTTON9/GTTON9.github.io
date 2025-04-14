@@ -1,4 +1,6 @@
 
+[![GTTON9](https://img.shields.io/badge/GTTON9-github-blue?logo=github)](https://github.com/GTTON9)
+
 
 I am a currently pursuing a Master's Degree in Mathematical Statistics, at University of California, Santa Barbara.
 

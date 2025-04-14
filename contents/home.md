@@ -19,5 +19,5 @@ B.S., Statistics and Data Science, University of California, Santa Barbara, 2022
 - 🧠 Bayesian Time Series & Kalman Filtering  
 - 📊 Statistical Computing & Optimization
 
-#### Resume
-[**← Click to View CV (PDF)**](/Users/tony/Documents/GitHub/GTTON9.github.io/static/assets/Resume--Minxing Xu 3.26.pdf)
+#### Resume  
+[**← Click to View CV (PDF)**](/static/assets/Resume--Minxing%20Xu%203.26.pdf)

@@ -9,12 +9,11 @@ minxing@ucsb.edu.\
 minxingtxu@gmail.com
 
 #### Education
-M.A., Mathematical Statistics (Fully Funded) , University of California, Santa Barbara, 2024-2026 (expected).\
+M.A., Mathematical Statistics, University of California, Santa Barbara, 2024-2026 (Fully Funded)
 B.S., Statistics and Data Science, University of California, Santa Barbara, 2022-2024
 
 
 #### Research Interests
-
 - 📈 Financial Statistics & Yield Curve Modeling  
 - 🧠 Bayesian Time Series & Kalman Filtering  
 - 📊 Statistical Computing & Optimization

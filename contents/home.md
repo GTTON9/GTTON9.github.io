@@ -9,14 +9,21 @@ minxing@ucsb.edu.\
 minxingtxu@gmail.com
 
 #### Education
-M.A., Mathematical Statistics, University of California, Santa Barbara, 2024-2026 (Fully Funded)\
+M.S., Electrical and Computer Engineering (Signal Processing Examination Track), University of California, Santa Barbara, 2025-2026\
+M.A., Statistics (Mathematical Statistics Thesis Track) , University of California, Santa Barbara, 2024-2026 (Fully Funded)\
 B.S., Statistics and Data Science, University of California, Santa Barbara, 2022-2024
 
 
 #### Research Interests
-- Fixed Income Modeling and Portfolio Optimization 
-- Risk Analysis and Uncertainty Quantification 
-- Bayesian Time Series and Covariance Estimation
+- Bayesian Methods and Uncertainty Quantification
+    • Variational Inference
+    • Bayesian Deep Learning
+    • Dynamic Linear System
+- Fixed Income Modeling and Risk Analysis
+    • Yield Curve Analysis
+    • Portfolio Optimization
+    • Uncertainty-aware Decision Making
+
     
 
 #### Resume  

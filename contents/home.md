@@ -29,4 +29,4 @@ B.S., Statistics and Data Science, University of California, Santa Barbara, 2022
     
 
 #### Resume  
-[**← Click to View CV (PDF)**](/static/assets/Minxing Xu Resume 7.7.2025.pdf)
+[**← Click to View CV (PDF)**](static/assets/Minxing Xu Resume 7.7.2025.pdf)

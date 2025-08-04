@@ -15,14 +15,16 @@ B.S., Statistics and Data Science, University of California, Santa Barbara, 2022
 
 
 #### Research Interests
-- Bayesian Methods and Uncertainty Quantification\\
-    • Variational Inference\\
-    • Bayesian Deep Learning\\
-    • Dynamic Linear System\\
-- Fixed Income Modeling and Risk Analysis\\
-    • Yield Curve Analysis\\
-    • Portfolio Optimization\\
-    • Uncertainty-aware Decision Making\\
+- **Bayesian Methods and Uncertainty Quantification**  
+  - Variational Inference  
+  - Bayesian Deep Learning  
+  - Dynamic Linear System  
+
+- **Fixed Income Modeling and Risk Analysis**  
+  - Yield Curve Analysis  
+  - Portfolio Optimization  
+  - Uncertainty-aware Decision Making  
+
 
     
 

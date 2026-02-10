@@ -1,20 +1,25 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/
+date: 2024-01-01
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+## Teaching Experience — UC Santa Barbara
 
-Heading 1
-======
+**Teaching Assistant**
 
-Heading 2
-======
+- **PSTAT 8 — Transition to Data Science, Probability and Statistics**  
+  Fall 2024
 
-Heading 3
-======
+- **PSTAT 10 — Principles of Data Science with R**  
+  Winter 2025
+
+- **PSTAT 122 — Design and Analysis of Experiments**  
+  Spring 2025
+
+- **PSTAT 160A — Applied Stochastic Processes**  
+  Fall 2025
+
+- **PSTAT 171 — Mathematics of Fixed Income Markets**  
+  Winter 2026

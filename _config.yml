@@ -26,7 +26,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Minxing(Tony) Xu" 
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am a second year master at UCSB"
   location         : "Santa Barbara"
   employer         : "University of California, Santa Barbara"
   uri              : # URL
@@ -41,13 +41,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/GTTON9"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -91,7 +91,7 @@ talkmap_link             : false      #change to true to add link to talkmap on 
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            :
+    shortname            : 
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:

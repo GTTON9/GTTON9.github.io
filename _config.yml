@@ -7,16 +7,22 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Minxing XU"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "minxingtxu.github.io"
+locale: "en-US"
+site_theme: "default"
+
+title: "Minxing Xu"
+title_separator: "-"
+name: &name "Minxing Xu"
+description: &description "Minxing Xu's academic portfolio"
+
+# ✅ 改成你的 GitHub Pages 主域名
+url: "https://GTTON9.github.io"
+
+# ✅ 因为你的仓库不是 username.github.io，所以要写 repo 名
+baseurl: "/minxingtxu.github.io"
+
+# ✅ 必须写成 用户名/仓库名
+repository: "GTTON9/minxingtxu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.

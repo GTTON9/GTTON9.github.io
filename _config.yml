@@ -27,7 +27,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Minxing (Tony) Xu" 
   bio              : "I am a second year master at UCSB"
-  location         : "Santa Barbara"
+  location         : #
   employer         : "UC Santa Barbara"
   uri              : # URL
   email            : "minxing@ucsb.edu" 

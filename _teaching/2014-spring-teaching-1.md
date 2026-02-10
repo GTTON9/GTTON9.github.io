@@ -1,10 +1,9 @@
 ---
-title: "Teaching"
-permalink: /teaching/
-layout: single
----
+title: "Teaching experienc"
 
-## Teaching Experience — UC Santa Barbara
+permalink: /teaching/2014-spring-teaching-1
+venue: "UC Santa Barbara"
+---
 
 **Teaching Assistant**
 

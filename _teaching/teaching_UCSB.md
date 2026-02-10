@@ -1,8 +1,9 @@
 ---
-title: "Teaching"
-permalink: /teaching/
-layout: single
-date: 2024-09-01
+title: "Teaching Experience"
+collection: teaching
+type: "Teaching Assistant"
+venue: "UC Santa Barbara"
+location: "Santa Barbara, CA"
 ---
 
 **Teaching Assistant**

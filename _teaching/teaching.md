@@ -1,6 +1,7 @@
 ---
-title: "Teaching experience"
-venue: "UC Santa Barbara"
+title: "Teaching"
+permalink: /teaching/
+layout: single
 ---
 
 **Teaching Assistant**

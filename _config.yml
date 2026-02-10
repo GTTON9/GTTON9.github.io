@@ -12,7 +12,7 @@ site_theme: "default"
 
 title: "Minxing Xu"
 title_separator: "-"
-name: &name "Minxing（Tony) Xu"
+name: &name "Minxing （Tony) Xu"
 description: &description "Minxing Xu's academic portfolio"
 url: "https://gtton9.github.io"
 baseurl: ""

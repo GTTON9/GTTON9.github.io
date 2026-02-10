@@ -1,8 +1,7 @@
 ---
-layout: single
 title: "Teaching"
+collection: teaching
 permalink: /teaching/
-author_profile: true
 ---
 
 **Teaching Assistant**

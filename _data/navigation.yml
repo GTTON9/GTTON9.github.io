@@ -12,7 +12,10 @@ main:
     url: /publications/   
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/  
+    
+  - title: "Presentation"
+    url: /presentation/    
     
   - title: "CV"
     url: /cv/

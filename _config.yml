@@ -12,7 +12,7 @@ site_theme: "default"
 
 title: "Minxing Xu"
 title_separator: "-"
-name: &name "Minxing （Tony) Xu"
+name: &name "Minxing (Tony) Xu"
 description: &description "Minxing Xu's academic portfolio"
 url: "https://gtton9.github.io"
 baseurl: ""
@@ -25,7 +25,7 @@ repository: "gtton9/gtton9.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Minxing(Tony) Xu" 
+  name             : "Minxing (Tony) Xu" 
   bio              : "I am a second year master at UCSB"
   location         : "Santa Barbara"
   employer         : "UC Santa Barbara"

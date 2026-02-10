@@ -12,17 +12,12 @@ site_theme: "default"
 
 title: "Minxing Xu"
 title_separator: "-"
-name: &name "Minxing Xu"
+name: &name "Minxing（Tony) Xu"
 description: &description "Minxing Xu's academic portfolio"
 
-# ✅ 改成你的 GitHub Pages 主域名
 url: "https://GTTON9.github.io"
-
-# ✅ 因为你的仓库不是 username.github.io，所以要写 repo 名
-baseurl: "/minxingtxu.github.io"
-
-# ✅ 必须写成 用户名/仓库名
-repository: "GTTON9/minxingtxu.github.io"
+baseurl: ""
+repository: "GTTON9/GTTON9.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -34,9 +29,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "University of California, Santa Barbara"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "minxing" 
 
   # Academic websites
   academia         : # URL

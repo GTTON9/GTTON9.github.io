@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
-collection: teaching
 permalink: /teaching/
+layout: single
 ---
 
 ## Teaching Experience — UC Santa Barbara

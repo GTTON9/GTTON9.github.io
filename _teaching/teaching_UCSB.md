@@ -1,6 +1,8 @@
 ---
-title: "Teaching Experience"
-collection: /teaching
+layout: single
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
 ---
 
 **Teaching Assistant**

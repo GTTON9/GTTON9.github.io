@@ -2,6 +2,7 @@
 title: "Teaching"
 permalink: /teaching/
 layout: single
+date: 2024-09-01
 ---
 
 **Teaching Assistant**

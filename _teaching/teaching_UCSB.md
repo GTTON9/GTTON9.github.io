@@ -1,9 +1,6 @@
 ---
 title: "Teaching Experience"
-collection: teaching
-type: "Teaching Assistant"
-venue: "UC Santa Barbara"
-location: "Santa Barbara, CA"
+collection: /teaching
 ---
 
 **Teaching Assistant**

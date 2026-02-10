@@ -25,27 +25,16 @@ repository: "gtton9/gtton9.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Minxing(Tony) Xu" 
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Santa Barbara"
   employer         : "University of California, Santa Barbara"
   uri              : # URL
   email            : "minxing" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=oI6aBhoAAAAJ"
+  
 
 
   # Repositories and software development

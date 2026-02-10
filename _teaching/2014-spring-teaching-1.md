@@ -2,7 +2,6 @@
 title: "Teaching"
 collection: teaching
 permalink: /teaching/
-date: 2024-01-01
 ---
 
 ## Teaching Experience — UC Santa Barbara

@@ -15,9 +15,9 @@ title_separator: "-"
 name: &name "Minxing（Tony) Xu"
 description: &description "Minxing Xu's academic portfolio"
 
-url: "https://GTTON9.github.io"
+url: "https://minxingtxu.github.io"
 baseurl: ""
-repository: "GTTON9/GTTON9.github.io"
+repository: "GTTON9/minxingtxu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.

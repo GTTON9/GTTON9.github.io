@@ -2,6 +2,7 @@
 title: "Teaching"
 collection: teaching
 permalink: /teaching/
+layout: single
 ---
 
 **Teaching Assistant**
